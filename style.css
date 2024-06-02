@@ -10,8 +10,13 @@ body{
 }
 .card{
   margin: 15px;
+  
 }
 .card:hover{
   border: black 2px solid;
   
 }
+a{
+  text-decoration: none;
+}
+
