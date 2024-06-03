@@ -9,11 +9,15 @@ body{
   
 }
 .card{
-  margin: 15px;
-  
+  margin: 15px, 5, 15px, 15px,  ;
+  transition: all 1200ms cubic-bezier(0.19, 0.78, 0, 0.99) ;
+  width:80%;
+  height: auto;
 }
 .card:hover{
   border: black 2px solid;
+  transform: scale(1.2) ;
+  z-index: 1;
   
 }
 a{
