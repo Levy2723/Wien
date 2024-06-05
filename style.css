@@ -55,22 +55,16 @@ a{
   display: grid;
   place-items: center;
 }
-<<<<<<< HEAD
+
 .sp1{
-=======
-#sp1{
->>>>>>> 22995bb (translated+ reworked css +os p. 1/...)
   border-radius: 12px 12px 12px 12px;
   height: auto;
   width: 75%;
   margin: 50px;
   transition: all 1200ms cubic-bezier(0.19, 0.78, 0, 0.99) ;
 }
-<<<<<<< HEAD
+
 .sp1:hover{
-=======
-#sp1:hover{
->>>>>>> 22995bb (translated+ reworked css +os p. 1/...)
-  transform: scale(1.2) ;
+ transform: scale(1.2) ;
   z-index: 1;
 }
